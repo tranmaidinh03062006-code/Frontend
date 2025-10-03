@@ -1,5 +1,4 @@
 # Frontend
-Dinh1
 Project: Website bán đồ nội thất (Demo full‑stack)
 
 > Tài liệu này chứa mã mẫu cho một website bán đồ nội thất: Frontend (Next.js / React) + Backend (Express) + Database nhẹ (lowdb - file JSON) + Cart + Mock thanh toán. Bạn có thể copy toàn bộ project này vào máy để chạy thử.
