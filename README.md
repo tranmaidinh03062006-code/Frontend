@@ -222,5 +222,17 @@ Tạo repo Git hoàn chỉnh và upload code, hoặc
 Thêm tích hợp Momo/VNPay thực tế (mình sẽ cần thông tin merchant để test), hoặc
 
 Triển khai lên hosting (Vercel + Render).
-
+furniture-store-demo/
+ ├─ frontend/          # Next.js (React)
+ │   ├─ package.json
+ │   ├─ pages/
+ │   │   ├─ index.js
+ │   │   ├─ products.js
+ │   │   └─ cart.js
+ │   └─ components/
+ │       ├─ Layout.js
+ │       └─ ProductCard.js
+ └─ backend/           # Express server + JSON database
+     ├─ server.js
+     └─ db.json
 
